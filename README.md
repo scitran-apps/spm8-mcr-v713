@@ -1,6 +1,6 @@
 ## SPM8 with MATLAB MCR 2010a
 
-This container has a compiled version of SPM8 for 2010a in /opt/spm8 and a 2010a MCR in /opt/mcr/v713. I intend
+This container has a compiled version of SPM8 for 2010a in `/opt/spm8` and a 2010a MCR in `/opt/mcr/v713`. I intend
 to primarily use this container to support Nipype pipelines that require SPM8. I've picked 2010a because it's one
 the compilation targets that SPM developers pick for SPM8.
 
